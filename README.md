@@ -5,7 +5,7 @@
 
   
 
-Just a simple Spring Boot + H2 DB Backend to fool around. :)
+Simple Spring Boot + H2 DB Backend.
 
   
 
